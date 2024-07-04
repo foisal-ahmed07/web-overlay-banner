@@ -24,7 +24,7 @@
 }
 .content h1{
     font-size: 54px;
-    color: #db714e;
+    color: #e96539;
     padding-top: 200px;
     text-transform: uppercase;
 }
@@ -33,6 +33,7 @@
     
     font-size: 23px;
     margin: 15px 0;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
     
 
 }
